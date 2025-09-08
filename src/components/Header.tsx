@@ -6,7 +6,7 @@ import {
   ActionIcon,
 } from "@mantine/core";
 import { useMediaQuery } from "@mantine/hooks";
-import { IconSun, IconMoon, IconMoneybag, IconPigMoney, IconReportMoney } from "@tabler/icons-react";
+import { IconSun, IconMoon,IconReportMoney } from "@tabler/icons-react";
 
 
 interface HeaderComponentProps {
