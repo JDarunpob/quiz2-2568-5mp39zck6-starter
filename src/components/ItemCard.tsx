@@ -1,5 +1,5 @@
-import { Card, Group, Badge, ActionIcon, Text } from "@mantine/core";
-import { IconTrash } from "@tabler/icons-react";
+// import { Card, Group, Badge, ActionIcon, Text } from "@mantine/core";
+// import { IconTrash } from "@tabler/icons-react";
 
 type ExpenseProps = {
   name: string;
@@ -15,6 +15,6 @@ export default function ItemCard() {
 
   return {
     /* Type additional text here. */
-    
+
   };
 }
