@@ -20,12 +20,14 @@ export default function ExpenseTracker() {
         Expense Tracker
       </Title>
       <Button>Add Expense Item</Button>
-      {/* Type additional AddExpenseModal here. */}
+      {}
 
       <Divider my="md" />
       {/* Type additional total cost here. */}
       <Title order={4}>Total cost: {} Baht</Title>
-      <Stack my="sm">{/* Type additional text here. */}</Stack>
+      <Stack my="sm">
+        {"Food: x Baht Transport: x Baht Entertainment: x Baht"}
+      </Stack>
 
       <Divider my="md" />
       {/* Type additional card here. */}

@@ -31,5 +31,6 @@ export default function AddExpenseModal({}: AddExpenseModalProps) {
 
   return {
     /* Type additional text here. */
+    
   };
 }

@@ -5,6 +5,7 @@ import { router } from "./routes.tsx";
 import "@mantine/core/styles.css";
 import { MantineProvider, createTheme, virtualColor } from "@mantine/core";
 
+
 const theme = createTheme({
   fontFamily: "Kanit,sans-serif",
   colors: {
